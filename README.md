@@ -1,4 +1,4 @@
-# 👋 Pham The Long
+#  Pham The Long
 
 🎓 M.S. in Artificial Intelligence & Robotics @ Sejong University  
  Researcher @ Vision Language Intelligence Lab  
